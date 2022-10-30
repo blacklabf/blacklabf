@@ -3,7 +3,7 @@
 
 - I’m currently learning
     - JAVA
-
+https://github-readme-stats.vercel.app/api?username=blacklabf&show_icons=true&theme=radical
 
 <!--
 **blacklabf/blacklabf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
