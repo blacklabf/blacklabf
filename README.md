@@ -4,7 +4,7 @@
 - I’m currently learning
     - Python
     - JAVA
-    - Databse
+    - Database
     - SQL
    
     
