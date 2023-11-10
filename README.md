@@ -1,4 +1,4 @@
-### 👨‍💻 백엔드 개발자, 방소영입니다 ### 
+# 👨‍💻 백엔드 개발자, 방소영입니다 # 
 <h2 align="left">👋 About me</h2>
 <P> <strong> PORTFOLIO </string> : 
 <a href="#">
@@ -37,6 +37,7 @@ Tistory
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blacklabf)](https://solved.ac/blacklabf/)
 
 <h2 align="left"> ✨Education</h2>
--  2022.07~2022.10 CNU SW ACADEMY 1기 </br>
+- 2022.07 ~ 2022.10 CNU SW ACADEMY 1기 </br>
+- 2023.01 ~ 2023.04 CNU SW ACADEMY 2기 </br>
 - 2023.07 ~ SSAFY 10기 
 
