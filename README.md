@@ -1,4 +1,6 @@
 # 👨‍💻 백엔드 개발자, 방소영입니다 # 
+| <img src="https://github-readme-stats.vercel.app/api?username=blacklabf&show_icons=true&theme=dracula"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacklabf&layout=compact">|
+
 <h2 align="left">👋 About me</h2>
 <P> <strong> PORTFOLIO </string> : 
 <a href="#">
