@@ -36,8 +36,6 @@ Tistory
 <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blacklabf)](https://solved.ac/blacklabf/)
-
 <h2 align="left"> ✨Education</h2>
 - 2022.07 ~ 2022.10 CNU SW ACADEMY 1기 </br>
 - 2023.01 ~ 2023.04 CNU SW ACADEMY 2기 </br>
